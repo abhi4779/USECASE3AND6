@@ -1,0 +1,266 @@
+{
+	"id": "f7a121cd-2a8a-445e-be4d-54757d8319a0",
+	"name": "UseCase3AND6",
+	"timestamp": "2023-07-29T16:37:22.961Z",
+	"collection_id": "26348483-70297bdd-13f4-455e-9c5b-997cc8495b65",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 8,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "c090cb62-a913-431c-a4cb-182b88cd9708",
+			"name": "https://reqres.in/api/unknown/1",
+			"url": "https://reqres.in/api/unknown/1",
+			"time": 75,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				75
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "3a4b1126-7158-4d94-bdc8-f068657c81fa",
+			"name": "https://reqres.in/api/unknown/8",
+			"url": "https://reqres.in/api/unknown/1",
+			"time": 119,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				119
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "f66d2508-b266-413e-a016-b1946e15e5a8",
+			"name": "https://reqres.in/api/unknown/13",
+			"url": "https://reqres.in/api/unknown/13",
+			"time": 144,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				144
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "5e34ada5-e60a-461f-afab-afd94a8de3db",
+			"name": "https://reqres.in/api/unknown/1075",
+			"url": "https://reqres.in/api/unknown/13",
+			"time": 78,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				78
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "d9f4b6e5-cdfc-4ea2-b9d2-4fb9037a5bb3",
+			"name": "https://reqres.in/api/users?id=7",
+			"url": "https://reqres.in/api/users?id=7",
+			"time": 74,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				74
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "6f4b97f9-67c0-45e2-812c-58d867107127",
+			"name": "https://reqres.in/api/users?id=1",
+			"url": "https://reqres.in/api/users?id=7",
+			"time": 76,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				76
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "e5fd19aa-afd5-448d-9f78-5b60a456d49f",
+			"name": "https://reqres.in/api/users?id=16",
+			"url": "https://reqres.in/api/users?id=7",
+			"time": 75,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				75
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "9b50dd24-7b26-46c8-af93-1b4f047a9c12",
+			"name": "https://reqres.in/api/users?id=100",
+			"url": "https://reqres.in/api/users?id=100",
+			"time": 531,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				531
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 1172,
+	"collection": {
+		"requests": [
+			{
+				"id": "c090cb62-a913-431c-a4cb-182b88cd9708",
+				"method": "GET"
+			},
+			{
+				"id": "3a4b1126-7158-4d94-bdc8-f068657c81fa",
+				"method": "GET"
+			},
+			{
+				"id": "f66d2508-b266-413e-a016-b1946e15e5a8",
+				"method": "GET"
+			},
+			{
+				"id": "5e34ada5-e60a-461f-afab-afd94a8de3db",
+				"method": "GET"
+			},
+			{
+				"id": "d9f4b6e5-cdfc-4ea2-b9d2-4fb9037a5bb3",
+				"method": "GET"
+			},
+			{
+				"id": "6f4b97f9-67c0-45e2-812c-58d867107127",
+				"method": "GET"
+			},
+			{
+				"id": "e5fd19aa-afd5-448d-9f78-5b60a456d49f",
+				"method": "GET"
+			},
+			{
+				"id": "9b50dd24-7b26-46c8-af93-1b4f047a9c12",
+				"method": "GET"
+			}
+		]
+	}
+}
